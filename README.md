@@ -9,6 +9,9 @@
 Smart Shopping Budget Optimizer is a web-based project that helps users choose the best combination of items within a limited budget using the 0/1 Knapsack Algorithm.
 It also includes an interactive Dynamic Programming table visualizer to show how the algorithm builds the optimal solution.
 
+# Live Demo
+https://nazzzshaikh.github.io/Smart-Shopping-Budget-Optimizer/
+
 # Features
 - Budget-based item selection
 - Implementation of 0/1 Knapsack Algorithm
